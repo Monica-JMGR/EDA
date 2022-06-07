@@ -1,6 +1,7 @@
 # Ejecuciones Hipotecarias vs Lanzamientos Judiciales
 
 En este proyecto vamos a estudiar el aumento de ejecuciones hipotecarias que se interpusieron en los Juzgados de Primera Instancia en España desde 2008.
+
 A la misma vez, las repercusiones en el aumento de las ejecuciones hipotecarias que supusieron el aumento de los lanzamientos judiciales (desahucios).
 
 Los datos que se han utilizado para el análisis se basan en los siguientes conceptos de Ejecución Hipotecaria y Lanzamiento Judicial:
