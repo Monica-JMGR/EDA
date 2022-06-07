@@ -21,4 +21,3 @@ Los datos que se han utilizado para el análisis se basan en los siguientes conc
 Proyecto EDA | Bootcamp Data Science | Monica Garrido Ramirez
 
 
-<\br>
