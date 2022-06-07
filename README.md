@@ -15,5 +15,10 @@ Los datos que se han utilizado para el análisis se basan en los siguientes conc
 - ¿Fueron los años posteriores al estallido de la burbuja inmobiliaria donde más Ejecuciones Hipotecarias se interpusieron?
 - ¿Fueron las grandes ciudades las que más lanzamientos realizaron?
 
+<br>
+<br>
 
 Proyecto EDA | Bootcamp Data Science | Monica Garrido Ramirez
+
+
+<br\>
